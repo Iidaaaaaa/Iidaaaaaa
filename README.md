@@ -3,7 +3,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,interact.js,GSAP" /> <br /><br />
 
 # NOW TRAINING
 
