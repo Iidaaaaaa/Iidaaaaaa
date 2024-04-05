@@ -1,7 +1,7 @@
 # Trident Webdesign Student 
 ### Just 19 years old 
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# My Skill 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase" /> <br /><br />
 
