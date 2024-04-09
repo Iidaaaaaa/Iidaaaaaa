@@ -1,6 +1,8 @@
 # Trident Webdesign Student 
 ### Just 19 years old 
+### I started studying web design in 2023.
 
+### In addition to the skills listed below, I am proficient in Sass and BEM.
 # My Skill 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,figma,codepen,ai,ps,wordpress" /> <br /><br />
