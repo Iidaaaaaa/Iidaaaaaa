@@ -1,4 +1,4 @@
-# Trident Webdesign Student🏫
+# Trident Webdesign Student　🏫
 <p>
 Just 19 years old 😆 <br>
 I started studying web design in 2023.📖<br>
