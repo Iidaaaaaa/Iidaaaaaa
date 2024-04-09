@@ -3,11 +3,11 @@
 
 # My Skill 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git" /> <br /><br />
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,git,microCMS" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next," /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
