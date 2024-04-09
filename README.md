@@ -11,7 +11,7 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
   <img src="https://github-readme-stats.vercel.app/api?username=iidaaaaaa&count_private=true&theme=omni" />
 </a>
 <a href="https://github.com/iidaaaaaa/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iidaaaaaa&layout=compact&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iidaaaaaa&layout⭐️=compact&theme=omni" />
 </a>
 
 <br><br><br>
@@ -23,11 +23,11 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
   </div>
 <br><br><br>
 
-# My Skill 
+# My Skill ⭐️
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,figma,codepen,ai,ps,wordpress" /> <br /><br />
 
-# NOW TRAINING
+# NOW TRAINING...💦
 
 <img src="https://skillicons.dev/icons?i=react,next,vue,jquery,php,ts" /> <br /><br />
 
