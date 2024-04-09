@@ -6,7 +6,7 @@ In addition to the skills listed below, I am proficient in Sass and BEM.</p>
 <!-- --------------------------------- :) ---------------------------------- -->
 
 
-## 🌟 My Status  🌟
+##  My Status  
 <a href="https://github.com/iidaaaaaa/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=iidaaaaaa&count_private=true&theme=omni" />
 </a>
