@@ -5,6 +5,13 @@
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
+## 🌟 My Status  🌟
+<a href="https://github.com/snhrayk/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true&theme=omni" />
+</a>
+<a href="https://github.com/snhrayk/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snhrayk&layout=compact&theme=omni" />
+</a>
 
 <div align="center">
     <h1>
