@@ -3,7 +3,7 @@
 
 # My Skill 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,Node.js" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git," /> <br /><br />
 
 # NOW TRAINING
 
