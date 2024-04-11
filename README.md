@@ -7,14 +7,9 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
 
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/">
     <img src="https://komarev.com/ghpvc/?username=iidaaaaaa" alt="iidaaaaaa" />
-
-   <img src="https://github-profile-trophy.vercel.app/?username=iidaaaaaa" alt="iidaaaaaa" />
-
-
   </a><!-- --------------------------------- :) ---------------------------------- -->
 
-
-##  My Status  
+##  My Status  🔰
 <a href="https://github.com/iidaaaaaa/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=iidaaaaaa&count_private=true&theme=ambient_gradient" />
 </a>
