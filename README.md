@@ -34,6 +34,6 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
 <img src="https://skillicons.dev/icons?i=figma,codepen,ai,ps,vscode" /> <br /><br />
 # NOW TRAINING...💦
 
-<img src="https://skillicons.dev/icons?i=react,nuxt,next,vue,jquery,php,ts" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nuxt,next,vue,jquery,php,ts,threejs" /> <br /><br />
 
 
