@@ -3,7 +3,6 @@
 Just 19 years old 😆 <br>
 I started studying web design in 2023.📖<br>
 In addition to the skills listed below, I am proficient in Sass and BEM.💪</p> 　
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6AncLCxf4U7ivJEaqih9zA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/">
     <img src="https://komarev.com/ghpvc/?username=iidaaaaaa" alt="iidaaaaaa"  /> 
