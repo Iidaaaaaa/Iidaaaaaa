@@ -1,4 +1,4 @@
-# Trident Webdesign Student🏫　 
+x# Trident Webdesign Student🏫　 
 <p>
 Just 19 years old 😆<br>I started studying web design in 2023.📖<br>
 In addition to the skills listed below, I am proficient in Sass and BEM.💪</p> 　
@@ -10,7 +10,7 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
 ##  My Status  🔰
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=iidaaaaaa&theme=ambient_gradient&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iidaaaaaa&layout⭐️=compact&theme=ambient_gradient" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=iidaaaaaa&layout⭐️=compact&theme=ambient_gradient](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)" />
   </div>
 <br><br><br>
 
