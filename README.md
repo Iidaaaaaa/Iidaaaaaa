@@ -8,12 +8,8 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
   </a><!-- --------------------------------- :) ---------------------------------- -->
 
 ##  My Status  🔰
-<a href="https://github.com/iidaaaaaa/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=iidaaaaaa&count_private=true&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/iidaaaaaa/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iidaaaaaa&layout⭐️=compact&theme=ambient_gradient" />
-</a>
 <br><br><br>
 
 <div align="center">
