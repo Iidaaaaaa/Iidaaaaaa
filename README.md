@@ -8,12 +8,7 @@ I'm not good at building environments.💦</p>
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/"> 
     <img src="https://komarev.com/ghpvc/?username=iidaaaaaa" alt="iidaaaaaa"  />
   </a>
-  <div>
-   <img src="https://img.shields.io/badge/Javascript-222.svg?logo=javascript&style=flat"/>
-   <img alt="Static Badge" src="https://img.shields.io/badge/-react-222.svg?style=flat&logo=react">
-   <img alt="Static Badge" src="https://img.shields.io/badge/-tailwindcss-222.svg?style=flat&logo=tailwindcss">
-  </div><!-- --------------------------------- :) ---------------------------------- -->
-
+ 
 ##  My Status  🔰
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=iidaaaaaa&theme=ambient_gradient&show_icons=true" />
@@ -27,8 +22,9 @@ I'm not good at building environments.💦</p>
     </h1>
   </div>
 <br><br><br> 
-
+<div align="center">
 # My Skill ⭐️
+</div>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,wordpress,react,next,php,threejs,tailwind,express,vite,vercel,npm,astro,bootstrap,py,webpack" /> <br /><br />
 
