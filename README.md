@@ -23,7 +23,7 @@ In addition to the skills listed below, I am proficient in Sass and BEM.💪</p>
 
 # My Skill ⭐️
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,wordpress,react,next,php,threejs" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,wordpress,react,next,php,threejs,tailwind" /> <br /><br />
 
 # Use Tools　⚙️
 
