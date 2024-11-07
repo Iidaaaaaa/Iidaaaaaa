@@ -22,9 +22,8 @@ I'm not good at building environments.💦</p>
     </h1>
   </div>
 <br><br><br> 
-<div align="center">
+
 # My Skill ⭐️
-</div>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,wordpress,react,next,php,threejs,tailwind,express,vite,vercel,npm,astro,bootstrap,py,webpack" /> <br /><br />
 
