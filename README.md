@@ -1,7 +1,9 @@
  # Trident Webdesign Student🏫　  　　
 <p> 
 Just 19 years old 😆<br>I started studying web design in 2023.📖<br> 
-In addition to the skills listed below, I am proficient in Sass and BEM.💪</p> 　 
+I am studying to become a Full Stack Engineer.🔥<br>
+I am not good at building environments.💦</p>
+
 
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/"> 
     <img src="https://komarev.com/ghpvc/?username=iidaaaaaa" alt="iidaaaaaa"  /> 
