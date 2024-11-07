@@ -7,7 +7,8 @@ I'm not good at building environments.💦</p>
 
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/"> 
     <img src="https://komarev.com/ghpvc/?username=iidaaaaaa" alt="iidaaaaaa"  />
-  </a><!-- --------------------------------- :) ---------------------------------- -->
+  </a>
+  <div> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"/></div><!-- --------------------------------- :) ---------------------------------- -->
 
 ##  My Status  🔰
 <div>
