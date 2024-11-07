@@ -1,8 +1,8 @@
  # Trident Webdesign Student🏫　  　　
 <p> 
 Just 19 years old 😆<br>I started studying web design in 2023.📖<br> 
-I am studying to become a Full Stack Engineer.🔥<br>
-I am not good at building environments.💦</p>
+I'm studying to become a Full Stack Engineer.🔥<br>
+I'm not good at building environments.💦</p>
 
 
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/"> 
@@ -29,9 +29,9 @@ I am not good at building environments.💦</p>
 
 # Use Tools　⚙️
 
-<img src="https://skillicons.dev/icons?i=figma,codepen,ai,ps,vscode," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=figma,codepen,ai,ps,vscode,discord," /> <br /><br />
 # NOW TRAINING...💦
 
-<img src="https://skillicons.dev/icons?i=nuxt,vue,jquery,ts," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=nuxt,vue,jquery,ts,aws,java" /> <br /><br />
 
 
