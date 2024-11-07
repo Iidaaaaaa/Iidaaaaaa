@@ -8,7 +8,11 @@ I'm not good at building environments.💦</p>
   <a href="https://github.com/iidaaaaaa/iidaaaaaa/"> 
     <img src="https://komarev.com/ghpvc/?username=iidaaaaaa" alt="iidaaaaaa"  />
   </a>
-  <div> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"/></div><!-- --------------------------------- :) ---------------------------------- -->
+  <div>
+   <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"/>
+   <img alt="Static Badge" src="https://img.shields.io/badge/-react-222.svg?style=flat&logo=react">
+   <img alt="Static Badge" src="https://img.shields.io/badge/-tailwindcss-222.svg?style=flat&logo=tailwindcss">
+  </div><!-- --------------------------------- :) ---------------------------------- -->
 
 ##  My Status  🔰
 <div>
