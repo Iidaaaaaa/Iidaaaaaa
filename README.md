@@ -32,6 +32,6 @@ I'm not good at building environments.💦</p>
 <img src="https://skillicons.dev/icons?i=figma,codepen,ai,ps,vscode,discord,arduino,windows,apple,github,vercel" /> <br /><br />
 # NOW TRAINING...💦
 
-<img src="https://skillicons.dev/icons?i=nuxt,,jquery,ts,aws,java,electron,gcp,laravel,linux,ruby,next" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=nuxt,jquery,ts,aws,java,electron,gcp,laravel,linux,ruby,next" /> <br /><br />
 
 
