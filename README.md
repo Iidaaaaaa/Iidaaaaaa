@@ -29,7 +29,7 @@ I'm not good at building environments.💦</p>
 
 # Use Tools　⚙️
 
-<img src="https://skillicons.dev/icons?i=figma,codepen,ai,ps,vscode,discord,arduino,windows,apple" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=figma,codepen,ai,ps,vscode,discord,arduino,windows,apple,github" /> <br /><br />
 # NOW TRAINING...💦
 
 <img src="https://skillicons.dev/icons?i=nuxt,,jquery,ts,aws,java,electron,gcp,laravel,linux,ruby,next" /> <br /><br />
