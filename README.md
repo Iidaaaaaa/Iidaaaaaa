@@ -25,7 +25,7 @@ I'm not good at building environments.💦</p>
 
 # My Skill ⭐️
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,wordpress,react,next,php,threejs,tailwind,express,vite,vercel,npm,astro,bootstrap,py,webpack" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,nodejs,wordpress,react,next,php,threejs,tailwind,express,vite,vercel,npm,astro,bootstrap,py,webpack,Svelte" /> <br /><br />
 
 # Use Tools　⚙️
 
